@@ -1,7 +1,7 @@
 # Desafio-FIpe FIPELOG
 Projeto desenvolvido para treinar o uso de Api em React-Native e outras funções
 
-Utilizamos essa Api: https://deividfortuna.github.io/fipe/
+ Api: https://deividfortuna.github.io/fipe/
 
 Tela de Login e Cadastro não são funcionais: 
 
