@@ -3,8 +3,6 @@ Projeto desenvolvido para treinar o uso de Api em React-Native e outras funçõe
 
  Api : https://deividfortuna.github.io/fipe/
 
-Tela de Login e Cadastro não são funcionais : 
-
 ![image](https://user-images.githubusercontent.com/56097879/202481335-991b1fff-5bfa-4b25-8a31-a475a0badb85.png)
 
 ![image](https://user-images.githubusercontent.com/56097879/202481500-783536b0-c369-4529-b15f-4b56d0c690ef.png)
